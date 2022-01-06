@@ -64,4 +64,7 @@ if __name__ == "__main__":
     n = len(arr)
     print(Solution2().rearrange(arr, n))
 
-
+'''
+time complexity: O(n)
+space complexity: O(1)
+'''
