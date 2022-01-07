@@ -27,3 +27,8 @@ class Solution:
             return True
         else:
             return False
+
+'''
+time complexity: O(n) - n is length of arr
+space complexity: O(1)
+'''
