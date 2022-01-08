@@ -1,2 +1,2 @@
 # Data-Structure-and-Algorithms
-Collection of Data Structure and Algorithms Problems that I solved
+Collection of Data Structure and Algorithms Problems for technical interviews.
